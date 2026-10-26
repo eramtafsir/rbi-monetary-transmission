@@ -5,7 +5,7 @@
 
 ## What This Project Does
 
-The RBI has cut its policy repo rate by a cumulative 125 basis points since February 2025.
+The RBI has cut its policy repo rate by a cumulative 125 basis points as of September 2026 since February 2025.
 This project answers one question using real RBI data:
 
 **How much of that actually reaches borrowers?**
